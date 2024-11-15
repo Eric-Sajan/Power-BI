@@ -33,7 +33,7 @@ The Power BI dashboard includes the following visualizations:
 #### Genre Distribution: Distribution of titles by genre
 #### Box Office Revenue: Total box office revenue for movies
 
-![img alt](https://github.com/Eric-Sajan/Power-BI/blob/6bf4a1dd715a81a0544d928b9ccdda0045d8c715/image.png)
+![img alt](https://github.com/Eric-Sajan/Power-BI/blob/c3f6fa290099d7319cdb05887771ae9f94263e43/Netflix.png)
 
 
 # Conclusion
