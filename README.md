@@ -1,7 +1,6 @@
 # Power-BI
 # Netflix Dashboard on Power BI
-# Screen Shoot
-![img alt](https://github.com/Eric-Sajan/Power-BI/blob/6bf4a1dd715a81a0544d928b9ccdda0045d8c715/image.png)
+
 
 # Overview
 This Power BI dashboard provides a comprehensive overview of Netflix content, focusing on movies and series. It leverages Netflix data to offer insights into various aspects, including:
@@ -11,7 +10,7 @@ This Power BI dashboard provides a comprehensive overview of Netflix content, fo
 #### Yearly Releases: A visual representation of content releases over the years.
 #### Content Details: Information on individual titles, including language, genre, summary, box office, and IMDb votes.
 
-
+![img alt](https://github.com/Eric-Sajan/Power-BI/blob/6bf4a1dd715a81a0544d928b9ccdda0045d8c715/image.png)
 
 # Data Source
 
