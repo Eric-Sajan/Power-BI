@@ -1,5 +1,7 @@
 # Power-BI
 # Netflix Dashboard on Power BI
+# Screen Shoot
+![img alt]()
 
 # Overview
 This Power BI dashboard provides a comprehensive overview of Netflix content, focusing on movies and series. It leverages Netflix data to offer insights into various aspects, including:
